@@ -52,7 +52,7 @@ I’m **Bilal Ahmed**, a Data Science student at the **University of Calgary** p
 |---------|-------------|------|
 | [**E-Commerce Churn Prediction**](https://github.com/BilalA5/ecommerce-churn-prediction) | ML model analyzing 5,000+ sessions to predict cart abandonment; improved abandonment-class accuracy **59.5% → 72%**. | Python, pandas, scikit-learn |
 | [**PyBase**](https://github.com/BilalA5/PyBase) | Python-based Inventory Management System with GUI & SQLite backend; sub-0.05 s query performance. | Python, SQLite, Tkinter |
-| *(Coming Soon)* **Cloud-Deployed Churn API** | Deploying churn model as REST API on Azure and Vercel for real-time predictions. | Python, Azure, Vercel, FastAPI |
+| *(Coming Soon)* **Cloud-Deployed Churn API** | Deploying churn model as REST API on Azure for real-time predictions. | Python, Azure, FastAPI |
 
 ---
 
