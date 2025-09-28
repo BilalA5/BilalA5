@@ -43,7 +43,6 @@ I’m **Bilal Ahmed**, a Data Science student at the **University of Calgary** p
 
 ### ☁️ Cloud Platforms
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
