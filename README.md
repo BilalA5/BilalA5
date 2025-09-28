@@ -5,7 +5,7 @@ I’m **Bilal Ahmed**, a Data Science student at the **University of Calgary** p
 ---
 
 ## 🚀 About Me
-- 💻 Focused on **Machine Learning**, **Data Engineering**, and **Cloud Deployment** (Azure, AWS, GCP, Vercel).
+- 💻 Focused on **Machine Learning**, **Data Engineering**, and **Cloud Deployment** (Azure, AWS, GCP).
 - 🌱 Currently building skills in **model deployment, MLOps, and data engineering**.
 - 📫 Reach me at: **s.bilal.ahmed927@gmail.com**
 
