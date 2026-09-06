@@ -18,3 +18,7 @@ Undergrad RA at the University of Calgary (2025–2026) on a multi-turn support 
   - **[Figure8](https://figure8.app/)**: Built a browser mockup tool that places images and videos onto 3D iPhone models to generate product shots
   - **Cloudey Chrome AI**: Engineered a Chrome AI assistant using Gemini, agentic task automation, fully local privacy.
   - **Cascade IoT Cloud**: Built serverless IoT pipeline with AWS Lambda, DynamoDB, S3, and Amplify (real-time ingestion, scalable deployment).
+
+
+# check out my portfolio   
+  - **[Portfolio](https://www.bilal5.me)**
